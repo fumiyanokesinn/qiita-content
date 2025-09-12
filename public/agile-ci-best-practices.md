@@ -3,11 +3,11 @@ title: アジャイル開発における継続的インテグレーション（C
 tags:
   - アジャイル
   - CI
+  - devops
   - 継続的インテグレーション
-  - DevOps
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-09-12T23:21:02+09:00'
+id: 01340928386e87be0601
 organization_url_name: null
 slide: false
 ignorePublish: false
