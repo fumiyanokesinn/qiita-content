@@ -3,7 +3,6 @@ title: アジャイル開発における継続的インテグレーション（C
 tags:
   - アジャイル
   - CI
-  - CI/CD
   - 継続的インテグレーション
   - DevOps
 private: false
